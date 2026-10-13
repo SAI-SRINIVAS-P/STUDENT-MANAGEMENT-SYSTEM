@@ -26,20 +26,20 @@
 
 ## 📚 Table of contents
 
-- [About the project](#-about-the-project)
-- [Features](#-features)
-- [Technology stack](#-technology-stack)
-- [Architecture](#-architecture)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Configuration](#-configuration)
-- [Run the project](#-run-the-project)
-- [Demo login](#-demo-login)
-- [API endpoints](#-api-endpoints)
-- [Project structure](#-project-structure)
-- [Troubleshooting](#-troubleshooting)
-- [Security notes](#-security-notes)
-- [Project description](#-project-description)
+- About the project
+- Features
+- Technology stack
+- Architecture
+- Prerequisites
+- Installation
+- Configuration
+- Run the project
+- Demo login
+- API endpoints
+- Project structure
+- Troubleshooting
+- Security notes
+- Project description
 
 ## 🎯 About the project
 
